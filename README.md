@@ -6,6 +6,7 @@ requirements into technical solutions. Looking to start a
 career as a web developer with a reputed firm driven by
 technology.
 </h3>
+<img align="center" style="width:100%" src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif" alt="img gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-nishad&label=Profile%20views&color=0e75b6&style=flat" alt="manish-nishad" /> </p>
 
