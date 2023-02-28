@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish Nishad</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate aspiring Full Stack Developer (MERN)
+and Software Engineer. Curious to learn about
+emerging web technologies. Ability to translate business
+requirements into technical solutions. Looking to start a
+career as a web developer with a reputed firm driven by
+technology.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-nishad&label=Profile%20views&color=0e75b6&style=flat" alt="manish-nishad" /> </p>
 
