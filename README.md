@@ -11,6 +11,8 @@ technology.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-nishad" alt="manish-nishad" /></a> </p>
 
+ <img align="right" alt="Coding" width="400"   src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif"/>
+
 - 🔭 I’m currently working on [Travel-Booking App](https://github.com/manish-nishad/Travel-Booking-App)
 
 - 🌱 I’m currently learning **React.js, Redux, Node.js**
